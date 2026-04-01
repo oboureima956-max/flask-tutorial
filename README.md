@@ -25,5 +25,6 @@ In this tutorial I have complied the [React Frontend](https://medium.com/bhavani
 
 ## To Run App in Kubernetes 
 
-Follow the tutorial - https://bhavaniravi.com/blog/kubernetes-101-deploy-apps-in-kubernetes/
+Follow the tutorial - https://bhavaniravi.com/blog/kubernetes-101-deploy-apps-in-kubernetes/pip install flask
+python app.py
 
